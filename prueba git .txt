@@ -1,5 +1,2 @@
-probando github
-
-Cambiando algo en el archivo
-
-probando otro commit
+Probando github
+se agrego un archivo nosesube.txt y se cargo en el archivo .gitignore
